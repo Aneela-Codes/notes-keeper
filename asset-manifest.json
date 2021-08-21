@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/notes-keeper/static/css/main.6da40ac0.chunk.css",
+    "main.js": "/notes-keeper/static/js/main.1e2681a0.chunk.js",
+    "main.js.map": "/notes-keeper/static/js/main.1e2681a0.chunk.js.map",
+    "runtime-main.js": "/notes-keeper/static/js/runtime-main.f136deda.js",
+    "runtime-main.js.map": "/notes-keeper/static/js/runtime-main.f136deda.js.map",
+    "static/css/2.d6dc494e.chunk.css": "/notes-keeper/static/css/2.d6dc494e.chunk.css",
+    "static/js/2.9ee5386d.chunk.js": "/notes-keeper/static/js/2.9ee5386d.chunk.js",
+    "static/js/2.9ee5386d.chunk.js.map": "/notes-keeper/static/js/2.9ee5386d.chunk.js.map",
+    "index.html": "/notes-keeper/index.html",
+    "static/css/2.d6dc494e.chunk.css.map": "/notes-keeper/static/css/2.d6dc494e.chunk.css.map",
+    "static/css/main.6da40ac0.chunk.css.map": "/notes-keeper/static/css/main.6da40ac0.chunk.css.map",
+    "static/js/2.9ee5386d.chunk.js.LICENSE.txt": "/notes-keeper/static/js/2.9ee5386d.chunk.js.LICENSE.txt",
+    "static/media/logo1.4f9eeea1.png": "/notes-keeper/static/media/logo1.4f9eeea1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f136deda.js",
+    "static/css/2.d6dc494e.chunk.css",
+    "static/js/2.9ee5386d.chunk.js",
+    "static/css/main.6da40ac0.chunk.css",
+    "static/js/main.1e2681a0.chunk.js"
+  ]
+}
